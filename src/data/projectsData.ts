@@ -87,7 +87,7 @@ export const PROJECTS_DATA: ProjectData[] = [
   },
   {
     slug: "wordPress-ecommerce",
-    category: "main",
+    category: "lab",
     title: "WordPress E-commerce",
     dependencies: "WordPress, WooCommerce, Elementor, Astra Theme",
     image: seventhProject,
